@@ -1,0 +1,5 @@
+﻿  ProjectWeather.cpp
+C:\Users\hasse\OneDrive\Skrivbord\STI-IoT19\04 - Algoritmer, Datastrukturer och Design patterns\ProjektInlämning\ProjectWeather\ProjectWeather.cpp(298,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\hasse\OneDrive\Skrivbord\STI-IoT19\04 - Algoritmer, Datastrukturer och Design patterns\ProjektInlämning\ProjectWeather\ProjectWeather.cpp(430,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\hasse\OneDrive\Skrivbord\STI-IoT19\04 - Algoritmer, Datastrukturer och Design patterns\ProjektInlämning\ProjectWeather\ProjectWeather.cpp(433,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ProjectWeather.vcxproj -> C:\Users\hasse\OneDrive\Skrivbord\STI-IoT19\04 - Algoritmer, Datastrukturer och Design patterns\ProjektInlämning\ProjectWeather\Debug\ProjectWeather.exe
